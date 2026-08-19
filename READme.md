@@ -2,7 +2,7 @@
 
 ## Aluna
 
-Karina Meier
+Karina Meier.
 
 ## Curso
 
