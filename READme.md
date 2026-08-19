@@ -1,7 +1,5 @@
 # Minha Galeria
-
 ## Aluna
-
 Karina Meier.
 
 ## Curso
