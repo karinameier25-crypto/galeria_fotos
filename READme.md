@@ -67,11 +67,3 @@ npx cap sync
 Depois, abra o projeto no Android Studio:
 
 npx cap open android
-
-## Permissões
-
-O aplicativo solicita permissão para acessar a câmera e a galeria de fotos do dispositivo para permitir que o usuário adicione imagens à sua galeria.
-
-## Desenvolvedora
-
-Karina Meier
